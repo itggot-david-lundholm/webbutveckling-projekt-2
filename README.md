@@ -14,7 +14,7 @@ TBA
   * JavaScript
   * etc.
 * Mobil- och desktop version.
-* Mobile First.
+  * Mobile First.
 * Detaljerade skisser ( OK med Adobe XD och/eller Photoshop eller annan programvara)
   * Skisser för layout
   * Skisser för animeringar
