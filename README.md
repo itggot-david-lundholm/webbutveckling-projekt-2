@@ -19,6 +19,7 @@ Jul!!
   * Skisser för layout
   * Skisser för animeringar
   * Skisser för inre layouts (t.ex artiklar, knappar, menyer)
+* Bildbehandling i photoshop
 * Utvecklingsdagbok i Wikin
   * Tänk på att använda begrepp och terminologin som du lärt dig
 * Stand Up Meetings
