@@ -13,6 +13,7 @@ Jul!!
   * Pseudoklasser
   * JavaScript
   * etc.
+* Riktigt innehåll, ingen lorem ipsum på färdig produkt.
 * Mobil- och desktop version.
   * Mobile First.
 * Detaljerade skisser ( OK med Adobe XD och/eller Photoshop eller annan programvara)
